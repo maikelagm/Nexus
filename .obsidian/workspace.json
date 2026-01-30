@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd62756a13c87c75",
+        "id": "a35d5e7e96dca3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5f6b0fc8804665",
+            "id": "973f3974bc1a6243",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "tldraw-view",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md"
+                "file": "tldraw/Tldraw 2026-01-30 2.20PM.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-30 03.44.40.excalidraw"
+              "icon": "lucide-file",
+              "title": "Tldraw 2026-01-30 2.20PM"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
+                "file": "tldraw/Tldraw 2026-01-30 2.20PM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Drawing 2026-01-30 03.44.40.excalidraw"
+              "title": "Enlaces entrantes de Tldraw 2026-01-30 2.20PM"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
+                "file": "tldraw/Tldraw 2026-01-30 2.20PM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Drawing 2026-01-30 03.44.40.excalidraw"
+              "title": "Enlaces salientes de Tldraw 2026-01-30 2.20PM"
             }
           },
           {
@@ -195,12 +195,15 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
-      "external-links-view:External links": false
+      "external-links-view:External links": false,
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "0d5f6b0fc8804665",
+  "active": "973f3974bc1a6243",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
+    "tldraw/Tldraw 2026-01-30 2.20PM.md",
+    "tldraw",
     "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Sin título.md",
     "Perfil de Tesis.md",
