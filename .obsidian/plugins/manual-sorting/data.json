@@ -2,9 +2,16 @@
   "customOrder": {
     "/": {
       "children": [
+        "Excalidraw",
         "nexus.uci.cu",
         "Observaciones.md",
         "Perfil de Tesis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Excalidraw": {
+      "children": [
+        "Excalidraw/Drawing 2026-01-30 15.55.48.excalidraw.md"
       ],
       "sortOrder": "custom"
     },
