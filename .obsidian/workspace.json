@@ -188,12 +188,12 @@
               "title": "External links"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +212,7 @@
       "external-links-view:External links": false
     }
   },
-  "active": "e3f0d9887aaec08e",
+  "active": "3a678b0c291ed647",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.md",
