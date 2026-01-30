@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -165,16 +164,6 @@
             }
           },
           {
-            "id": "14a62749aad0a9ab",
-            "type": "leaf",
-            "state": {
-              "type": "external-links-view",
-              "state": {},
-              "icon": "link-2",
-              "title": "External Links"
-            }
-          },
-          {
             "id": "85a700f355f6005c",
             "type": "leaf",
             "state": {
@@ -187,9 +176,19 @@
               "icon": "lucide-archive",
               "title": "Todas las propiedades"
             }
+          },
+          {
+            "id": "3a678b0c291ed647",
+            "type": "leaf",
+            "state": {
+              "type": "external-links-view",
+              "state": {},
+              "icon": "link",
+              "title": "External links"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,10 +207,11 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "external-links-view:External links": false
     }
   },
-  "active": "14a62749aad0a9ab",
+  "active": "3a678b0c291ed647",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.md",
