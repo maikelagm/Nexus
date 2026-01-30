@@ -62,6 +62,18 @@
               "icon": "lucide-file",
               "title": "Sin título"
             }
+          },
+          {
+            "id": "c9a60223396659ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-30 02.15.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-30 02.15.28.excalidraw"
+            }
           }
         ],
         "currentTab": 3
@@ -121,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -207,14 +220,23 @@
               "icon": "lucide-list",
               "title": "Esquema de Sin título"
             }
+          },
+          {
+            "id": "5842689b913172e0",
+            "type": "leaf",
+            "state": {
+              "type": "external-links-view",
+              "state": {},
+              "icon": "link",
+              "title": "External links"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,13 +251,16 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "external-links-view:External links": false
     }
   },
-  "active": "8644ccd7be07b9e0",
+  "active": "5842689b913172e0",
   "lastOpenFiles": [
-    "Perfil de Tesis.md",
+    "Excalidraw/Drawing 2026-01-30 02.15.28.excalidraw.md",
     "Sin título.md",
+    "Excalidraw",
+    "Perfil de Tesis.md",
     "nexus.uci.cu",
     "Sin título 3.md",
     "Sin título 2.md",
