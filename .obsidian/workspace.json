@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e3f0d9887aaec08e",
+  "active": "14a62749aad0a9ab",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.md",
