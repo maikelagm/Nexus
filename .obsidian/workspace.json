@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perfil de Tesis.md",
+                "file": "Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Perfil de Tesis"
+              "title": "Enlaces entrantes de Sin título"
             }
           },
           {
@@ -221,21 +221,20 @@
             }
           },
           {
-            "id": "5842689b913172e0",
+            "id": "14a62749aad0a9ab",
             "type": "leaf",
             "state": {
               "type": "external-links-view",
               "state": {},
-              "icon": "link",
-              "title": "External links"
+              "icon": "link-2",
+              "title": "External Links"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 556.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,11 +249,10 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian42-brat:BRAT": false,
-      "external-links-view:External links": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8644ccd7be07b9e0",
+  "active": "851789ecaec4cb4f",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 02.15.28.excalidraw.md",
     "Sin título.md",
