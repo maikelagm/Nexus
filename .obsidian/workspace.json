@@ -160,20 +160,22 @@
             }
           },
           {
-            "id": "3a678b0c291ed647",
+            "id": "c57c89ebed4c3c15",
             "type": "leaf",
             "state": {
               "type": "external-links-view",
               "state": {},
-              "icon": "link",
-              "title": "External links"
+              "icon": "link-2",
+              "title": "External Links"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +197,14 @@
   },
   "active": "e041f396732500b4",
   "lastOpenFiles": [
+    "Drawing 2026-01-30 00.33.31.excalidraw.md",
+    "Sin título.md",
+    "Sin título.canvas",
     "Excalidraw/dhsfkjhg.md",
     "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
-    "Sin título.canvas",
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
-    "Sin título.md",
     "tldraw/Tldraw 2026-01-30 2.20PM.md",
     "tldraw",
-    "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Perfil de Tesis.md",
     "Excalidraw/Drawing 2026-01-30 02.15.28.excalidraw.md",
     "Excalidraw",

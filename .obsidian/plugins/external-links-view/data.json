@@ -2,8 +2,27 @@
   "excludePatterns": [],
   "excludePathRegex": "",
   "linkCache": {
-    "Sin título.md": [
-      "https://github.com/maikelagm/Nexus/settings/secrets/actions"
+    "nexus.uci.cu/packages/ui/README.md": [
+      "https://ui.shadcn.com/",
+      "https://ui.shadcn.com/docs/components",
+      "https://www.radix-ui.com/primitives/docs/overview/introduction"
+    ],
+    "nexus.uci.cu/CONTRIBUTING.md": [
+      "https://typicode.github.io/husky/",
+      "https://commitlint.js.org/",
+      "https://commitizen-tools.github.io/commitizen/",
+      "https://www.conventionalcommits.org/"
+    ],
+    "nexus.uci.cu/README.md": [
+      "https://turborepo.com",
+      "https://github.com/vercel/storage/tree/main/packages/postgres",
+      "https://github.com/t3-oss/create-t3-turbo/issues/634#issuecomment-1730240214",
+      "https://www.better-auth.com",
+      "https://www.better-auth.com/docs/concepts/cli#generate",
+      "https://vercel.com",
+      "https://vercel.com/docs/concepts/monorepos/turborepo",
+      "https://github.com/t3-oss/create-t3-app",
+      "https://jumr.dev/blog/t3-turbo"
     ]
   }
 }
