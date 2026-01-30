@@ -4,39 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "8005bb36ced98587",
+        "id": "8535713cf08cf95f",
         "type": "tabs",
         "children": [
           {
-            "id": "e041f396732500b4",
+            "id": "c5d8988c9f8ac741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observaciones.md",
+                "file": "New file from IPhone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observaciones"
+              "title": "New file from IPhone"
             }
           },
           {
-            "id": "a99d26452df44a7e",
+            "id": "0c5c212c2ce012e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observaciones.md",
+                "file": "Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observaciones"
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "5c8d5f923ac0043d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 300
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -109,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Perfil de Tesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Perfil de Tesis"
             }
           },
           {
@@ -127,11 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de README"
             }
           },
           {
@@ -150,21 +162,6 @@
             }
           },
           {
-            "id": "e6c4bc3b9d6746ba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sin título.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Sin título"
-            }
-          },
-          {
             "id": "85a700f355f6005c",
             "type": "leaf",
             "state": {
@@ -179,26 +176,28 @@
             }
           },
           {
-            "id": "c57c89ebed4c3c15",
+            "id": "e6c4bc3b9d6746ba",
             "type": "leaf",
             "state": {
-              "type": "external-links-view",
-              "state": {},
-              "icon": "link-2",
-              "title": "External Links"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -213,30 +212,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a99d26452df44a7e",
+  "active": "5c8d5f923ac0043d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-30 15.55.48.excalidraw.md",
-    "Observaciones.md",
-    "Excalidraw",
-    "Sin título.base",
-    "Excalidraw/Drawing 2026-01-30 15.48.20.excalidraw.md",
-    "Perfil de Tesis.md",
-    "Drawing 2026-01-30 00.33.31.excalidraw.md",
-    "Sin título.md",
-    "Sin título.canvas",
-    "Excalidraw/dhsfkjhg.md",
-    "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
-    "tldraw/Tldraw 2026-01-30 2.20PM.md",
-    "tldraw",
-    "Excalidraw/Drawing 2026-01-30 02.15.28.excalidraw.md",
     "nexus.uci.cu",
     "Sin título 3.md",
     "Sin título 2.md",
     "Sin título 1.md",
+    "Sin título.md",
     "Screenshot 2026-01-29 12.41.38 PM.png",
     "New file from IPhone.md",
     "conflict-files-obsidian-git.md",
-    "Test Sync.md"
+    "Test Sync.md",
+    "Drawing 2026-01-30 00.33.31.excalidraw.md",
+    "Perfil de Tesis.md",
+    "Observaciones.md"
   ]
 }
