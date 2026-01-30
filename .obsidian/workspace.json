@@ -11,10 +11,14 @@
             "id": "e041f396732500b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Perfil de Tesis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Perfil de Tesis"
             }
           }
         ]
@@ -174,10 +178,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -194,6 +200,7 @@
   },
   "active": "e041f396732500b4",
   "lastOpenFiles": [
+    "Observaciones.md",
     "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Sin título.md",
     "Sin título.canvas",
@@ -212,7 +219,6 @@
     "Screenshot 2026-01-29 12.41.38 PM.png",
     "New file from IPhone.md",
     "conflict-files-obsidian-git.md",
-    "Test Sync.md",
-    "Observaciones.md"
+    "Test Sync.md"
   ]
 }
