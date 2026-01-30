@@ -27,7 +27,12 @@
   "workspaces": true,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": false,
   "bases": true,
   "webviewer": false
+=======
+  "sync": true,
+  "bases": true
+>>>>>>> origin/live-sync
 }
