@@ -18,3 +18,8 @@
 
 
 "Correcto como objetivo proyectivo DiseÃ±ar un sistema de redes para la Universidad TecnolÃ³gica de la RegiÃ³n Andina basado en las comunicaciones internas entre profesores, que permita mantener actualizada la informaciÃ³n acerca de los productos investigativos de cada uno y evitar la rÃ©plica innecesaria de estudios." ([Jacqueline Hurtado de Barrera, 2015, p. 131](zotero://select/library/items/YA6KHKBZ)) ([pdf](zotero://open-pdf/library/items/DG26DL6P?page=131&annotation=5BP8NKFD))
+
+
+"Correcto como objetivo proyectivo DiseÃ±ar un sistema de redes para la Universidad TecnolÃ³gica de la RegiÃ³n Andina basado en las comunicaciones internas entre profesores, que permita mantener actualizada la informaciÃ³n acerca de los productos investigativos de cada uno y evitar la rÃ©plica innecesaria de estudios." ([Jacqueline Hurtado de Barrera, 2015, p. 131](zotero://select/library/items/YA6KHKBZ)) ([pdf](zotero://open-pdf/library/items/DG26DL6P?page=131&annotation=5BP8NKFD))
+
+"Correcto como objetivo proyectivo DiseÃ±ar un sistema de redes para la Universidad TecnolÃ³gica de la RegiÃ³n Andina basado en las comunicaciones internas entre profesores, que permita mantener actualizada la informaciÃ³n acerca de los productos investigativos de cada uno y evitar la rÃ©plica innecesaria de estudios." ([Jacqueline Hurtado de Barrera, 2015, p. 131](zotero://select/library/items/YA6KHKBZ)) ([pdf](zotero://open-pdf/library/items/DG26DL6P?page=131&annotation=5BP8NKFD))
