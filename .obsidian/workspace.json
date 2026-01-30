@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 229
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +189,7 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian42-brat:BRAT": false,
-      "external-links-view:External links": false,
-      "tldraw:Create new tldrawing": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "e041f396732500b4",

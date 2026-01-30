@@ -293,7 +293,7 @@ settings:
 .theme-light {
 	--text-on-accent: var(--800);
 	--tab-outline-width: 0px;
-	--radius-xl: 16px;
+	--radius-xl: 8px;
 	--h1-size: 1.8em;
 	--h2-size: 1.8em;
 	--h3-size: 1.8em;
@@ -877,10 +877,10 @@ settings:
 	gap: 4px;
 }
 
-/* .view-header,
+.view-header,
 	.is-focused .workspace-leaf.mod-active .view-header {
 	  background: var(--card-color);
-	} */
+	} 
 
 .mod-fade:not(.mod-at-end):after {
 	background: transparent;
@@ -891,7 +891,7 @@ settings:
 }
 
 .mod-root .workspace-tab-header-container-inner {
-	padding: 0 0 0 8px;
+	padding: 0 0 0 0px;
 }
 
 .workspace-tab-header-new-tab {
@@ -1005,14 +1005,16 @@ select:focus,
 	margin-right: 0px;
 }
 
+/* .side-dock-actions {
+/* 	margin-top: 0px;
+/* }
+*/ 
 .side-dock-actions {
-	margin-top: 0px;
-}
-
-.side-dock-actions {
-	border-radius: 0 var(--radius-xl) var(--radius-xl) 0;
-	background: var(--side-dock-color);
-	border-width: 0px;
+/* 	border-radius: 0 var(--radius-xl) 0 0;
+/* 	height: 100%;
+/* 	justify-content: start;
+/* 	background: var(--side-dock-color);
+/* 	border-width: 0px;*/
 	padding: 16px 0;
 }
 
@@ -1089,7 +1091,7 @@ select:focus,
 }
 
 .horizontal-main-container {
-	padding: 0 0 32px 0;
+	padding: 0 0 8px 0;
 }
 
 .mod-root .workspace-tabs .workspace-leaf {
@@ -1942,17 +1944,19 @@ th,
 /* Status Bar
 /*================================================*/
 
-.status-bar {
-	bottom: 0px;
-	right: 0px;
-	width: 100%;
-	justify-content: center;
-	align-items: center;
-	border-width: 0px 0px 0px 0px;
-	border-color: var(--table-border-color);
-	border-style: solid;
-	padding: 4px;
+ .status-bar {
+	bottom: 16px;
+	right: 16px;
+	border-radius: var(--radius-xl);
+/* 	width: 100%;
+/* 	justify-content: center;
+/* 	align-items: center;
+/* 	border-width: 0px 0px 0px 0px;
+/* 	border-style: solid;
+/* 	padding: 4px;
+*/
 }
+
 
 /*================================================*/
 /* Vibrant List Indents
@@ -3348,4 +3352,22 @@ p > a.tag:nth-child(7n + 11),
 
 .container.svelte-pcimu8 {
 	--color-dot: var(--interactive-accent) !important;
+}
+
+
+
+
+/*================================================*/
+/* CUSTOM
+/*================================================*/
+
+.workspace-sidedock-vault-profile{
+	margin: 0 10px;
+	background-color: var(--card-color) !important;
+	border-radius: 0 0 var(--radius-xl) var(--radius-xl);
+}
+
+.workspace-leaf-content{
+	background-color: var(--card-color) !important;
+	border-radius: var(--radius-xl) var(--radius-xl) 0 0 !important;   
 }
