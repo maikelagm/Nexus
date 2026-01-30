@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perfil de Tesis.md",
+                "file": "Observaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perfil de Tesis"
+              "title": "Observaciones"
             }
           }
         ]
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Perfil de Tesis.md",
+            "file": "Observaciones.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -174,7 +174,8 @@
   },
   "active": "9622e86fc998f408",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Perfil de Tesis.md"
+    "Perfil de Tesis.md",
+    "Observaciones.md",
+    "conflict-files-obsidian-git.md"
   ]
 }

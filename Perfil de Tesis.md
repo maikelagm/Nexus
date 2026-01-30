@@ -2,7 +2,7 @@
 ## Situación Problematica
 
 
-
+[[Observaciones]]
 
 
 **Pregunta de Investigación**
