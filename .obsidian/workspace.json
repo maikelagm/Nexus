@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -255,7 +254,7 @@
       "external-links-view:External links": false
     }
   },
-  "active": "5842689b913172e0",
+  "active": "8644ccd7be07b9e0",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 02.15.28.excalidraw.md",
     "Sin título.md",
