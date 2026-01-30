@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +198,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "04f70fa98f137d25",
+  "active": "3a678b0c291ed647",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
     "Sin título.canvas",
