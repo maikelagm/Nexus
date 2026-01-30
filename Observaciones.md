@@ -9,9 +9,11 @@ Por otra parte en un pais subdesarrollado, una universidad que solo crea trabaja
 **Formacion profesional**
 
 
-Desde nuestra experiencia personal
-Durante el trascurso de la carrera fui testigo de un conjunto de situaciones que experimente personalmente que probablemente estan muy relacionadas a los aspectos mencionandos, 
 
+Desde nuestra experiencia personal
+Durante el trascurso de la carrera fui testigo de un conjunto de situaciones que experimente personalmente que probablemente estan muy relacionadas a los aspectos mencionados, y que me estimularon personalmente a indagar sobre ellos y llevar a cabo esta investigacion 
+
+era especialmente notable el tiempo invertido por los estudiantes, en busca de recursos en cada materia para 
 
 
 
