@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Sin título"
             }
+          },
+          {
+            "id": "defa53511862df04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-30 03.44.40.excalidraw"
+            }
           }
         ]
       }
@@ -181,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +211,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "14a62749aad0a9ab",
+  "active": "e3f0d9887aaec08e",
   "lastOpenFiles": [
-    "Perfil de Tesis.md",
+    "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.md",
+    "Perfil de Tesis.md",
     "Excalidraw/Drawing 2026-01-30 02.15.28.excalidraw.md",
     "Excalidraw",
     "nexus.uci.cu",
