@@ -25,12 +25,14 @@
             "id": "a99d26452df44a7e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 15.55.48.excalidraw.md"
+                "file": "Observaciones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-30 15.55.48.excalidraw"
+              "icon": "lucide-file",
+              "title": "Observaciones"
             }
           }
         ],
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229,
-    "collapsed": true
+    "width": 229
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -214,8 +215,8 @@
   },
   "active": "a99d26452df44a7e",
   "lastOpenFiles": [
-    "Observaciones.md",
     "Excalidraw/Drawing 2026-01-30 15.55.48.excalidraw.md",
+    "Observaciones.md",
     "Excalidraw",
     "Sin título.base",
     "Excalidraw/Drawing 2026-01-30 15.48.20.excalidraw.md",
