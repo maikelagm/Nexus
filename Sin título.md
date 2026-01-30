@@ -6,3 +6,5 @@ https://github.com/maikelagm/Nexus/settings/secrets/actions
 zotero://open-pdf/library/items/DG26DL6P?page=131&annotation=VJ7BXUPD
 
 zotero://select/library/items/YA6KHKBZ
+
+obsidian://open?vault=VaultName&file=NotePath
