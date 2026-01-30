@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "93751a98fec02bd7",
+        "id": "8005bb36ced98587",
         "type": "tabs",
         "children": [
           {
-            "id": "04f70fa98f137d25",
+            "id": "e041f396732500b4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-30 15.08.05.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Drawing 2026-01-30 15.08.05.excalidraw"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -111,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Drawing 2026-01-30 15.08.05.excalidraw"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -173,8 +169,7 @@
               "title": "External links"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +193,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "3a678b0c291ed647",
+  "active": "e041f396732500b4",
   "lastOpenFiles": [
+    "Excalidraw/dhsfkjhg.md",
     "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
     "Sin título.canvas",
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
