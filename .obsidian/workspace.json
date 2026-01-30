@@ -4,28 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0863bbcd2395549a",
+        "id": "93751a98fec02bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "407208be9161c7ad",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sin título.canvas",
-                "viewState": {
-                  "x": -67.89000000000001,
-                  "y": 208.90000000000006,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sin título"
-            }
-          },
-          {
-            "id": "ae755ce5e60e6739",
+            "id": "04f70fa98f137d25",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -36,8 +19,7 @@
               "title": "Drawing 2026-01-30 15.08.05.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 378.5
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -218,10 +199,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "ae755ce5e60e6739",
+  "active": "04f70fa98f137d25",
   "lastOpenFiles": [
-    "Sin título.canvas",
     "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
+    "Sin título.canvas",
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.md",
     "tldraw/Tldraw 2026-01-30 2.20PM.md",
