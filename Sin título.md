@@ -5,3 +5,4 @@
 
 
 "Un objetivo de investigación implica un logro de conocimiento nuevo, a través de una búsqueda metódica." ([Hurtado de Barrera, 2015, p. 37](zotero://select/library/items/YA6KHKBZ)) 
+

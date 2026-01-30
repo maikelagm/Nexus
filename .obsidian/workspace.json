@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -187,8 +188,7 @@
               "title": "External links"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,7 +211,7 @@
       "external-links-view:External links": false
     }
   },
-  "active": "3a678b0c291ed647",
+  "active": "36bb26c67f4d39b6",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.md",
