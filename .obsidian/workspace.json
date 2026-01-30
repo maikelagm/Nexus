@@ -11,12 +11,17 @@
             "id": "407208be9161c7ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md"
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": -67.89000000000001,
+                  "y": 208.90000000000006,
+                  "zoom": 0
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-30 03.44.40.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
             }
           }
         ]
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
+                "file": "Sin título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Drawing 2026-01-30 03.44.40.excalidraw"
+              "title": "Enlaces entrantes de Sin título"
             }
           },
           {
@@ -112,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
+                "file": "Sin título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Drawing 2026-01-30 03.44.40.excalidraw"
+              "title": "Enlaces salientes de Sin título"
             }
           },
           {
@@ -202,8 +207,9 @@
   },
   "active": "407208be9161c7ad",
   "lastOpenFiles": [
-    "Sin título.md",
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
+    "Sin título.canvas",
+    "Sin título.md",
     "tldraw/Tldraw 2026-01-30 2.20PM.md",
     "tldraw",
     "Drawing 2026-01-30 00.33.31.excalidraw.md",
