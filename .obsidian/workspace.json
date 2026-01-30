@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Observaciones"
             }
+          },
+          {
+            "id": "a99d26452df44a7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-30 15.55.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-30 15.55.48.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,12 +211,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e041f396732500b4",
+  "active": "a99d26452df44a7e",
   "lastOpenFiles": [
-    "Sin título.base",
     "Observaciones.md",
-    "Excalidraw/Drawing 2026-01-30 15.48.20.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-30 15.55.48.excalidraw.md",
     "Excalidraw",
+    "Sin título.base",
+    "Excalidraw/Drawing 2026-01-30 15.48.20.excalidraw.md",
     "Perfil de Tesis.md",
     "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Sin título.md",
