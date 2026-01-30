@@ -11,20 +11,6 @@
             "id": "e3f0d9887aaec08e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título"
-            }
-          },
-          {
-            "id": "defa53511862df04",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md"
@@ -33,8 +19,7 @@
               "title": "Drawing 2026-01-30 03.44.40.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a00ef63f983675f",
@@ -193,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +199,9 @@
       "external-links-view:External links": false
     }
   },
-  "active": "defa53511862df04",
+  "active": "e3f0d9887aaec08e",
   "lastOpenFiles": [
+    "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Sin título.md",
     "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Perfil de Tesis.md",
@@ -227,7 +215,6 @@
     "New file from IPhone.md",
     "conflict-files-obsidian-git.md",
     "Test Sync.md",
-    "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Observaciones.md"
   ]
 }

@@ -52,8 +52,8 @@
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "panWithRightMouseButton": false,
-  "renderImageInMarkdownReadingMode": false,
-  "renderImageInHoverPreviewForMDNotes": false,
+  "renderImageInMarkdownReadingMode": true,
+  "renderImageInHoverPreviewForMDNotes": true,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
@@ -100,7 +100,7 @@
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
   "fadeOutExcalidrawMarkup": false,
-  "loadPropertySuggestions": false,
+  "loadPropertySuggestions": true,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
   "addDummyTextElement": false,
@@ -445,7 +445,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 10,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
@@ -481,7 +481,7 @@
     "borderOpacity": 0,
     "filenameVisible": false
   },
-  "markdownNodeOneClickEditing": false,
+  "markdownNodeOneClickEditing": true,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
   "aiEnabled": true,
