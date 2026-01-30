@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a35d5e7e96dca3b9",
+        "id": "0863bbcd2395549a",
         "type": "tabs",
         "children": [
           {
-            "id": "973f3974bc1a6243",
+            "id": "407208be9161c7ad",
             "type": "leaf",
             "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "tldraw/Tldraw 2026-01-30 2.20PM.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tldraw 2026-01-30 2.20PM"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tldraw/Tldraw 2026-01-30 2.20PM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Tldraw 2026-01-30 2.20PM"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -111,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tldraw/Tldraw 2026-01-30 2.20PM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Tldraw 2026-01-30 2.20PM"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -199,10 +195,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "973f3974bc1a6243",
+  "active": "851789ecaec4cb4f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "tldraw/Tldraw 2026-01-30 2.20PM.md",
+    "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "tldraw",
     "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Sin título.md",
