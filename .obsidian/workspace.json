@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Sin título"
             }
+          },
+          {
+            "id": "ae755ce5e60e6739",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-30 15.08.05.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.canvas",
+                "file": "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sin título"
+              "title": "Enlaces entrantes de Drawing 2026-01-30 15.08.05.excalidraw"
             }
           },
           {
@@ -117,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título.canvas",
+                "file": "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sin título"
+              "title": "Enlaces salientes de Drawing 2026-01-30 15.08.05.excalidraw"
             }
           },
           {
@@ -205,10 +218,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "407208be9161c7ad",
+  "active": "ae755ce5e60e6739",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.canvas",
+    "Excalidraw/Drawing 2026-01-30 15.08.05.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-30 03.44.40.excalidraw.md",
     "Sin título.md",
     "tldraw/Tldraw 2026-01-30 2.20PM.md",
     "tldraw",
