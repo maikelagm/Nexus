@@ -60,7 +60,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "custom",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -198,15 +198,16 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
-      "tldraw:Create new tldrawing": false
+      "tldraw:Create new tldrawing": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
   "active": "9622e86fc998f408",
   "lastOpenFiles": [
-    "Observaciones.md",
-    "Tldraw 2026-01-30 12.25AM.md",
-    "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Perfil de Tesis.md",
+    "Observaciones.md",
+    "Drawing 2026-01-30 00.33.31.excalidraw.md",
+    "Tldraw 2026-01-30 12.25AM.md",
     "tldraw/Tldraw 2026-01-30 12.24AM.md",
     "tldraw",
     "conflict-files-obsidian-git.md"
