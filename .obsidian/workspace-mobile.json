@@ -192,15 +192,11 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "github-gitless-sync:Open sync conflicts view": false,
-      "github-gitless-sync:Sync with GitHub": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false,
-      "tldraw:Create new tldrawing": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
