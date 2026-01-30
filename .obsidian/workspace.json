@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2588567463095638",
+        "id": "fd942d709b5375a6",
         "type": "tabs",
         "children": [
           {
-            "id": "f3879822f5cb069d",
+            "id": "00fd556544431895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observaciones.md",
+                "file": "Test Sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observaciones"
+              "title": "Test Sync"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Test Sync.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de Test Sync"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,10 +199,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5fb70d564ccf9d1a",
+  "active": "00fd556544431895",
   "lastOpenFiles": [
+    "Drawing 2026-01-30 00.33.31.excalidraw.md",
+    "Test Sync.md",
     "Perfil de Tesis.md",
-    "Observaciones.md",
-    "Test Sync.md"
+    "Observaciones.md"
   ]
 }
