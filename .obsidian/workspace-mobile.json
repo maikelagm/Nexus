@@ -11,12 +11,14 @@
             "id": "243cdb595d253bf8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2026-01-30 00.33.31.excalidraw.md"
+                "file": "Observaciones.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-30 00.33.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "Observaciones"
             }
           },
           {
@@ -197,9 +199,9 @@
   },
   "active": "243cdb595d253bf8",
   "lastOpenFiles": [
+    "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Observaciones.md",
-    "Drawing 2026-01-30 00.33.31.excalidraw.md",
     "Perfil de Tesis.md",
     "nexus.uci.cu",
     "/nexus.uci.cu",
